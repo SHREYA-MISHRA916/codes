@@ -64,3 +64,5 @@ int main()
 	cout << "Sorted array is \n";
 	printArray(arr, n);
 }
+
+//i have made few changes in code
