@@ -1,4 +1,3 @@
 # codes
 #Hacktoberfest
-
-basic c codes
+I have made some changes
